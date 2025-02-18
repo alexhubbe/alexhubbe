@@ -7,7 +7,7 @@ I’m a **Data Scientist** and **PhD in Science** with over 20 years of experien
 ## :microscope: What I Do:
 - **Data Science & Machine Learning** – Transforming raw data into actionable insights.  
 - **Research** – Applying statistical models to understand natural systems.  
-- **Interdisciplinary Collaboration** – Working across domains to tackle challenging scientific questions.  
+- **Interdisciplinary Collaboration** – Working across domains to tackle challenging questions.  
 
 ---
 
