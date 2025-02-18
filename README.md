@@ -16,6 +16,12 @@ I’m a **Data Scientist** and **PhD in Science** with over 20 years of experien
 **Tools & Libraries:** Autogluon, Keras, Matplotlib, NumPy, Optuna, Seaborn, Pandas, Scikit-Learn, TensorFlow
 
 ---
+
+## :rocket: Featured Projects:
+Check out my pinned portfolio projects below!
+
+---
+
 ## :mailbox_with_mail: Let’s Connect:
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/alex-h%C3%BCbbe-8a4780190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
