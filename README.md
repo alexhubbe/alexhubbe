@@ -13,7 +13,7 @@ I’m a **Data Scientist** and **PhD in Science** with over 20 years of experien
 
 ## :hammer_and_wrench: Tech Stack:
 **Languages:** Python, R  
-**Tools & Libraries:** Autogluon, Keras, Matplotlib, NumPy, Optuna, Seaborn, Pandas, Scikit-Learn, TensorFlow
+**Tools & Libraries:** Autogluon, Imbalanced-learn, Keras, Matplotlib, NumPy, Optuna, Seaborn, Pandas, Scikit-Learn, TensorFlow, XGBoost
 
 ---
 
