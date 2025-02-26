@@ -1,5 +1,5 @@
 # Hey, I'm Alex Hübbe! :wave:  
-
+[🇩🇪 Deutsche Version](README.de.md)
 I’m a **Data Scientist** and **PhD in Science** with over 20 years of experience leveraging data to uncover patterns and processes, solve complex problems, and drive insights.
 
 ---
