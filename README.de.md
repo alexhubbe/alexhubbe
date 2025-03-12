@@ -1,6 +1,6 @@
 # Hey, ich bin Alex Hübbe! :wave:  
 
-Ich bin **Datenwissenschaftler** und **Doktor der Naturwissenschaften** mit über 20 Jahren Erfahrung darin, Daten zu analysieren, Muster zu erkennen, komplexe Probleme zu lösen und wertvolle Erkenntnisse zu gewinnen.  
+Ich bin **Datenwissenschaftler** und **Doktor der Naturwissenschaften** mit über 15 Jahren Erfahrung darin, Daten zu analysieren, Muster zu erkennen, komplexe Probleme zu lösen und wertvolle Erkenntnisse zu gewinnen.  
 
 ---
 
